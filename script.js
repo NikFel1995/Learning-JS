@@ -6,15 +6,6 @@ let second = 2;
 
 const pi = 3.14;
 
-//console.log("leftBorderWidth = " + leftBorderWidth);
-
-let person = {
-    name: "John",
-    age: 25,
-    isMarried: false,
-};
-
-console.log(person.name);
 
 let arr = [
     'plum.png',
